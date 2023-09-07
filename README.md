@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EhsanJaved
 - 👀 I’m WEB developer and Data Scientist
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ehsanjaved302@gmail.com
 
 <!---
